@@ -1,3 +1,5 @@
+// Question Find the output of the following
+
 console.log(1);
 setTimeout(() => {console.log(2);}, 0);
 var promise1 = new Promise((resolve, reject) => {
